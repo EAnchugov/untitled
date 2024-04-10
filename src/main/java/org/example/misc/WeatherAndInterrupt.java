@@ -1,4 +1,4 @@
-package org.example;
+package org.example.misc;
 
 public class WeatherAndInterrupt {
     // слово "volatile" мы объясним позже
